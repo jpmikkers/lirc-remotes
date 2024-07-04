@@ -1,2 +1,2 @@
 # lirc-remotes
-LIRC remote control config files for devices not covered by the LIRC remotes database
+LIRC remote control config files for some devices not (yet?) covered by the LIRC remotes database
